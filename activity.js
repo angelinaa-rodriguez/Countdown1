@@ -51,16 +51,16 @@ switch (day) {
     console.log("It's Tuesday.");
     break;
   case "Wednesday":
-    console.log("Halfway through the week.");
+    console.log("Hump day!");
     break;
   case "Thursday":
     console.log("Almost Friday.");
     break;
   case "Friday":
-    console.log("It's Friday!");
+    console.log("Thank god it's Friday!");
     break;
   case "Saturday":
-    console.log("It's the weekend.");
+    console.log("Yay it's the weekend.");
     break;
   case "Sunday":
     console.log("Rest and reset.");
